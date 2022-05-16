@@ -17,4 +17,16 @@ public class Solution_21 {
 
         return answer;
     }
+    public String solution_2(String s) {
+        String answer = "";
+        char[] char_list = s.toCharArray();
+        for(int i = 0; i < char_list.length; i++){
+            if(char_list[i]  == ' '){
+
+            }
+        }
+
+        return answer;
+
+    }
 }
